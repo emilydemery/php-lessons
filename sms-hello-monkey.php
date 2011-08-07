@@ -14,5 +14,5 @@ header("content-type: text/xml");
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
 ?>
 <Response>
-<Sms><?php echo $name ?>, come to our party! 135 Conselyea Street 3A, on the Graham stop of the L. Call Emily to come up to the roof: 6465304568. See you soon!</Sms>
+<Sms><?php echo $name ?>, come to our party! 135 Conselyea Street 3A, on the Graham stop off the L. Call Emily: 6465304568. See you soon!</Sms>
 </Response>
